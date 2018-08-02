@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UareSAFE test2</string>
+    <string name="atras">Atrás</string>
+    <string name="_3_app">3-APP</string>
+    <string name="todas_las_apps">TODAS LAS APPS</string>
+    <string name="tvname">TextView</string>
+    <string name="tvsaname">tvSAName</string>
+    <string name="salir">Salir</string>
+</resources>
